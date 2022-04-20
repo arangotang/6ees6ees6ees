@@ -14,4 +14,4 @@ class RetiredForagerBee extends ForagerBee {
   gamble(treasure) {
     super.forage(treasure);
   }
-};
+}
